@@ -1,7 +1,6 @@
 <div align=center>
 
 <h3 align="center">Hi there 👋 my name is SeokBeom Ahn 🙂😄</h3>
----
 
 <h3>🛠 Tech Stack 🛠</h3>
 
@@ -13,11 +12,7 @@
    <br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/></a>&nbsp 
    <br>
-
-
 </p>
- 
----
 
 
 ##### Techs that I've used at least once
@@ -28,7 +23,6 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-   <br>
    <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
@@ -37,7 +31,6 @@
 <p>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
 </p>
----
 
 <!--
 **Ahnseokbeom/Ahnseokbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

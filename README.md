@@ -1,7 +1,6 @@
 <div align=center>
 
 <h3 align="center">Hi there 👋 my name is SeokBeom Ahn 🙂😄</h3>
-##### 기록 기록 기록 하자요 !!!
 ---
 
 <h3>🛠 Tech Stack 🛠</h3>
@@ -38,14 +37,6 @@
 <p>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
 </p>
-
-##### Collaboration tools available
-
-<p>
- <!--슬랙-->
-  <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/> </a>&nbsp 
-</p>
-
 ---
 
 <!--

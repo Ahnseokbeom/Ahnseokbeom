@@ -40,8 +40,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Ahnseokbeom&theme=gruvbox">
     </a>
      <hr>
-    <a href="https://solved.ac/q9922000/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=q9922000">
+    <a href="https://solved.ac/asb0313/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asb0313">
     </a>
 </p>
 

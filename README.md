@@ -27,6 +27,7 @@
 ##### IDE tools available
 
 <p>
+   <img src="https://img.shields.io/badge/IntellijIDEA-000000?logo=IntellijIDEA&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
 </p>
 

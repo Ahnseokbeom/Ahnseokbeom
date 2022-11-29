@@ -57,4 +57,3 @@
 <a href="mailto:ajm153123@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=jaebin2586@gmail.com"/></a>
 <a href=""><img src="https://img.shields.io/badge//Notion-000000?logo=Notion&logoColor=white&link="/></a>
 </div>
-<script src="https://gist.github.com/Ahnseokbeom/0633c9171d4509b25f2ecffd4854cf0b.js"></script>

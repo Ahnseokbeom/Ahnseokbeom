@@ -54,6 +54,6 @@
 ---
 
 ##### Please contact me
-Mail : <a href="mailto:ajm153123@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=ajm153123.com"/></a>
-<a href="mailto:seokbeom0312@gmail.com"><img src="https://img.shields.io/badge/gmail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=seokbeom0312@gmail.com"/></a><br>
+<a href="mailto:ajm153123@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=ajm153123.com"/></a>
+<a href="mailto:seokbeom0312@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=seokbeom0312@gmail.com"/></a><br>
 </div>

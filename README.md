@@ -56,7 +56,6 @@
 ##### Please contact me
 <a href="mailto:ajm153123@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=ajm153123.com"/></a>
 <a href="mailto:seokbeom0312@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=seokbeom0312@gmail.com"/></a><br><br>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={}&theme={default})](https://github.com/loosie/github-readme-tistory-card)
-<a href="mailto:https://beom-growth.tistory.com"><img src="https://img.shields.io/badge/tistory-#FF6A00?style=flat-square&logo=Tistory&logoColor=white&link=https://beom-growth.tistory.com"/></a>
-<a href="mailto:https://beom-study.tistory.com"><img src="https://img.shields.io/badge/tistory-#FF6A00?style=flat-square&logo=Tistory&logoColor=white&link=https://beom-study.tistory.com"/></a>
+<a href="mailto:https://beom-growth.tistory.com"><img src="https://img.shields.io/badge/tistory-#000000?style=flat-square&logo=Tistory&logoColor=white&link=https://beom-growth.tistory.com"/></a>
+<a href="mailto:https://beom-study.tistory.com"><img src="https://img.shields.io/badge/tistory-#000000?style=flat-square&logo=Tistory&logoColor=white&link=https://beom-study.tistory.com"/></a>
 </div>
